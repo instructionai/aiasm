@@ -1,2 +1,0 @@
-- Always use arrow function
-- Code must be clean and well-structured
